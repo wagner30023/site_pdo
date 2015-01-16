@@ -1,5 +1,5 @@
 <footer class="footer">
-    <p> Copyright <?php echo date("d/m/y") ?>. Code Education .</p>
+    <p> Copyright <?php echo date("Y") ?>. Code Education .</p>
 </footer>
 </div>
 </body>
